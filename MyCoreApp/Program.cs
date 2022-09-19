@@ -1,3 +1,12 @@
+//DZ220914 - ASP.NET-CoreApp1
+
+//Version : 1.1
+//Release : September 18, 2022
+
+//Re : CoreApp1 - first ASP.NET project                                                                     
+
+//Update : DZ220918 - Release folder added, documentation section created
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
