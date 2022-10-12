@@ -9,6 +9,8 @@
 
 //Update : DZ220925 - link to the tutorial of creating asp.net project added
 
+//Update : DZ221011 - deploying folder added
+
 /**************************************************************************************************************************************************************
  * 
  * Link to the tutorial of creating asp.net project https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-aspnet-core?view=vs-2022
