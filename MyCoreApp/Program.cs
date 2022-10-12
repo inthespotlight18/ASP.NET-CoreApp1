@@ -7,6 +7,14 @@
 
 //Update : DZ220918 - Release folder added, documentation section created
 
+//Update : DZ220925 - link to the tutorial of creating asp.net project added
+
+/**************************************************************************************************************************************************************
+ * 
+ * Link to the tutorial of creating asp.net project https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-aspnet-core?view=vs-2022
+ * 
+ **************************************************************************************************************************************************************/
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
